@@ -15,8 +15,8 @@ python3 -m pip install -r requirements.txt
 ```
 
 **2. Download data from OpenCV**
-OpenCV Github：https://github.com/opencv/opencv/tree/4.x/data
-Frontal Face Model：haarcascade_frontalface_default.xml
+- OpenCV Github：https://github.com/opencv/opencv/tree/4.x/data
+- Frontal Face Model：[haarcascade_frontalface_default.xml](https://raw.githubusercontent.com/opencv/opencv/4.x/data/haarcascades/haarcascade_frontalface_default.xml)
 
 **3. Unzip `data_4_setup.zip` and Put all data into `data` folder**
 ```
